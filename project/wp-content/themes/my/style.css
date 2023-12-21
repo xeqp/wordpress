@@ -1,0 +1,219 @@
+/**
+Theme Name: Моя первая тема
+Author:Gormash
+*/
+
+body{
+    background: #202020 url(maxresdefault.jpg);
+    font: sans-serif;
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Tokyo_Ghoul_Ken_KanekiCursor.png) , default !important
+  
+  }
+  header{
+  
+    background: #202020;
+    opacity: 0.7;
+  }
+  div{
+    text-align: center;
+  }
+  
+  .block {     
+    display: flex;     
+    justify-content: right;     
+    align-items: right;     
+    text-align: center;     
+    margin: auto;     
+    font-size: 2rem;     
+    color: #fff;     
+    background: #fd0404; 
+  } 
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+  
+  }
+  
+  nav li {
+    margin-right: 90px;
+  }
+  
+  nav a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .ko{
+    width: 450px;
+    height: 250px;
+    float: left;
+     margin-right: 10px;
+  }
+  
+  .ka{
+    width: 350px;
+    height: 100px;
+  }
+  .text{
+    font-family: "Sunday" src="fonts";
+    text-align: left;
+    color:#fff;
+    display: flex;
+   align-items: center;
+   font-family: 'Dancing Script', cursive;
+  font-family: 'Nova Square', sans-serif;
+  }
+  
+  .zagol{
+    color:#fd0404;
+    text-align:left;
+    
+  }
+  
+  .kart
+  {
+    margin-left: 1000px;
+     margin-right: 10px;
+    }
+  
+    .knop{
+      margin-left: 100px;
+      background-color: black; color: white;
+       background-image: linear-gradient(to bottom, white, black);
+       display: flex;
+       position: relative;
+      }
+  
+  .kar3{
+    margin-right: 1410px;
+    width:450px;
+    height: 250px;
+  }
+  
+  .text3{
+    display: flex;
+     flex-direction: column;
+     justify-content: center;
+      align-items: center;
+      color:#fff;
+      font-family: 'Dancing Script', cursive;
+  font-family: 'Nova Square', sans-serif;
+  }
+  
+  .help{ 
+     position: relative;
+    top: -250px;
+    color:red
+  }
+  
+  .hor{
+  display: flex;
+   align-items: center;
+  }
+  
+  .png{
+    width: 450px;
+    height: 250px;
+    float: left;
+  }
+  
+  .img3{
+    float: left;
+    margin-right: 20px;
+    width: 450px;
+    height: 250px;
+  }
+  
+  .text5{
+    color:red;
+    text-align:left;
+    font-family: 'Dancing Script', cursive;
+  font-family: 'Nova Square', sans-serif;
+  }
+  
+  .text6{
+    text-align: left;
+    color:#fff;
+    display: flex;
+   align-items: center;
+   font-family: 'Dancing Script', cursive;
+  font-family: 'Nova Square', sans-serif;
+  }
+  
+  .IMAGES {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 10px;
+    justify-items: center; 
+    align-items: center;
+    backdrop-filter: blur(1);
+  }
+  .FOURIMAGESP {
+    width: 600px;
+    height: 350px;
+    border: 4px solid #fff;
+    border-radius: 15px;
+  
+  }
+  
+  .imgtext {
+    font-family: 'Nova Square', sans-serif;
+    color: #ffffff;
+    width: 85%;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 15px;
+  }
+  
+  .por{
+  color:#fd0404;
+  text-align: right;
+  }
+  
+  .scrollup{
+    width:40px;
+    height:40px;
+    opacity:0.3;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    display:none;
+    text-indent:-9999px;
+    background: url('icon_top.png') no-repeat;
+    }
+  
+  .cid{
+    float: right;
+  }
+    
+  .musia{
+    position: absolute;
+    left: 30px;
+    top: 25px;
+    transform: translateY(-50%);
+  }
+  
+  button {
+    background-color: red;
+    border: none;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  button img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  .text35{
+    text-align: center;
+  }
